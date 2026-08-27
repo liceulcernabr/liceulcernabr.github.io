@@ -1,0 +1,36 @@
+name: Sincronizare comunicate edu.ro
+
+on:
+  schedule:
+    - cron: "15 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Rulează sincronizarea
+        run: node scripts/sync-edu-news.js
+
+      - name: Commit și push dacă s-au schimbat datele
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/data/edu-ro-news.json; then
+            echo "Nimic nou de la edu.ro."
+          else
+            git add assets/data/edu-ro-news.json
+            git commit -m "Actualizează comunicatele edu.ro [auto]"
+            git push
+          fi

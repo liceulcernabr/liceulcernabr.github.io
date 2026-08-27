@@ -38,6 +38,38 @@
     items.forEach(function(el){ el.classList.add('is-visible'); });
   }
 
+  // comunicate edu.ro (populate din assets/data/edu-ro-news.json, generat de GitHub Actions)
+  var eduFeed = document.getElementById('edu-ro-feed');
+  if (eduFeed) {
+    fetch('assets/data/edu-ro-news.json')
+      .then(function (r) { if (!r.ok) throw new Error('status ' + r.status); return r.json(); })
+      .then(function (data) {
+        eduFeed.innerHTML = '';
+        data.items.forEach(function (item) {
+          var li = document.createElement('li');
+          var a = document.createElement('a');
+          a.href = item.url;
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = item.title;
+          var date = document.createElement('span');
+          date.className = 'date';
+          date.textContent = item.date;
+          li.appendChild(a);
+          li.appendChild(date);
+          eduFeed.appendChild(li);
+        });
+        var note = document.getElementById('edu-ro-feed-note');
+        if (note) {
+          var fetched = new Date(data.fetchedAt);
+          note.textContent = 'Actualizat automat pe ' + fetched.toLocaleDateString('ro-RO') + ' · sursă: edu.ro';
+        }
+      })
+      .catch(function () {
+        eduFeed.innerHTML = '<li><a href="https://www.edu.ro/comunicate" target="_blank" rel="noopener noreferrer">Vezi comunicatele direct pe edu.ro →</a></li>';
+      });
+  }
+
   // contact form (static demo — no backend)
   var form = document.getElementById('contact-form');
   if (form) {
