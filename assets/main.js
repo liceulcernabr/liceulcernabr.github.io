@@ -38,6 +38,50 @@
     items.forEach(function(el){ el.classList.add('is-visible'); });
   }
 
+  // photo carousel (pagina principală)
+  var carousel = document.getElementById('home-carousel');
+  if (carousel) {
+    var track = document.getElementById('carousel-track');
+    var slides = Array.prototype.slice.call(track.children);
+    var dotsWrap = document.getElementById('carousel-dots');
+    var index = 0;
+    var autoplayMs = 6000;
+    var timer = null;
+    var reduceMotionCarousel = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    slides.forEach(function (slide, i) {
+      var dot = document.createElement('button');
+      dot.type = 'button';
+      dot.setAttribute('role', 'tab');
+      dot.setAttribute('aria-label', 'Imaginea ' + (i + 1) + ' din ' + slides.length);
+      dot.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
+      dot.addEventListener('click', function () { goTo(i); restart(); });
+      dotsWrap.appendChild(dot);
+    });
+    var dots = Array.prototype.slice.call(dotsWrap.children);
+
+    function render() {
+      track.style.transform = 'translateX(-' + (index * 100) + '%)';
+      dots.forEach(function (d, i) { d.setAttribute('aria-selected', i === index ? 'true' : 'false'); });
+    }
+    function goTo(i) { index = (i + slides.length) % slides.length; render(); }
+    function next() { goTo(index + 1); }
+    function prev() { goTo(index - 1); }
+    function stop() { if (timer) { clearInterval(timer); timer = null; } }
+    function start() { if (!reduceMotionCarousel) { stop(); timer = setInterval(next, autoplayMs); } }
+    function restart() { start(); }
+
+    carousel.querySelector('.carousel-btn.prev').addEventListener('click', function () { prev(); restart(); });
+    carousel.querySelector('.carousel-btn.next').addEventListener('click', function () { next(); restart(); });
+    carousel.addEventListener('mouseenter', stop);
+    carousel.addEventListener('mouseleave', start);
+    carousel.addEventListener('focusin', stop);
+    carousel.addEventListener('focusout', start);
+
+    render();
+    start();
+  }
+
   // comunicate edu.ro (populate din assets/data/edu-ro-news.json, generat de GitHub Actions)
   var eduFeed = document.getElementById('edu-ro-feed');
   if (eduFeed) {
