@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-09-27T11:59:00.918Z",
+  "fetchedAt": "2026-09-28T13:48:47.778Z",
   "items": [
+    {
+      "title": "Ministerul Educației și Cercetării lansează „PRIMII: Program pentru Reușita Învățământului Primar prin Măsuri Integrate de Intervenție”, un demers de prevenire a analfabetismului funcțional și a abandonului școlar pentru aproximativ 50.000 de copii",
+      "url": "https://www.edu.ro/press_rel_65_26_lansare_PRIMII",
+      "date": "28 septembrie 2026"
+    },
     {
       "title": "Sistemul educațional românesc în oglinda evaluărilor naționale și internaționale: Focus PISA 2025",
       "url": "https://www.edu.ro/press_rel_64_26_PISA_2025_rezultate_RO",
@@ -26,11 +31,6 @@
       "title": "Informare: Consultare publică privind proiectul și anexele Metodologiei-cadru de organizare și desfășurare a repartizării și a admiterii în învățământul liceal (2027 - 2028)",
       "url": "https://www.edu.ro/press_rel_60_2026_consultare_publica_proiect_metodologie_calendar_AdLic_27_28",
       "date": "14 august 2026"
-    },
-    {
-      "title": "Informare privind lansarea în consultare publică a proiectelor de ordine privind organizarea și desfășurarea Evaluării Naționale pentru absolvenții clasei a VIII-a (2026 - 2027) și a examenului național de bacalaureat 2027",
-      "url": "https://www.edu.ro/press_rel_59_2026_consultare_publica_proiecte_metodologii_calendare_examene_2027",
-      "date": "13 august 2026"
     }
   ]
 }
