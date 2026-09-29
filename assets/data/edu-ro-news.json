@@ -1,7 +1,17 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-09-28T13:48:47.778Z",
+  "fetchedAt": "2026-09-29T12:48:14.743Z",
   "items": [
+    {
+      "title": "Informare privind structura testelor din cadrul Concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+      "url": "https://www.edu.ro/press_rel_67_26_informare_probe_concurs_directori",
+      "date": "29 septembrie 2026"
+    },
+    {
+      "title": "Informare asupra stadiului licitației de manuale pentru clasa a IX-a, în contextul reformei curriculare",
+      "url": "https://www.edu.ro/press_rel_66_26_licitatie_manuale_IX",
+      "date": "29 septembrie 2026"
+    },
     {
       "title": "Ministerul Educației și Cercetării lansează „PRIMII: Program pentru Reușita Învățământului Primar prin Măsuri Integrate de Intervenție”, un demers de prevenire a analfabetismului funcțional și a abandonului școlar pentru aproximativ 50.000 de copii",
       "url": "https://www.edu.ro/press_rel_65_26_lansare_PRIMII",
@@ -21,16 +31,6 @@
       "title": "Examenul național de bacalaureat 2026: Sinteza rezultatelor finale înregistrate în a doua sesiune/S2 (după soluționarea contestațiilor)",
       "url": "https://www.edu.ro/press_rel_62_26_rezultate_finale_bacalaureat_26_sesiune_august",
       "date": "24 august 2026"
-    },
-    {
-      "title": "Examenul național de bacalaureat 2026: Sinteza rezultatelor înregistrate în a doua sesiune (S2) - înainte de contestații",
-      "url": "https://www.edu.ro/press_rel_61_26_rezultate_initiale_bacalaureat_26_sesiune_august",
-      "date": "18 august 2026"
-    },
-    {
-      "title": "Informare: Consultare publică privind proiectul și anexele Metodologiei-cadru de organizare și desfășurare a repartizării și a admiterii în învățământul liceal (2027 - 2028)",
-      "url": "https://www.edu.ro/press_rel_60_2026_consultare_publica_proiect_metodologie_calendar_AdLic_27_28",
-      "date": "14 august 2026"
     }
   ]
 }
