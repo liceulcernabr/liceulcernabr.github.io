@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-10-05T14:31:20.597Z",
+  "fetchedAt": "2026-10-06T13:15:41.983Z",
   "items": [
+    {
+      "title": "Continuarea și extinderea implementării în România a programelor FLEX Global și FLEX Abroad Global în anul școlar 2027 - 2028",
+      "url": "https://www.edu.ro/press_rel_69_26_memorandum_flex",
+      "date": "6 octombrie 2026"
+    },
     {
       "title": "Burse postdoctorale pentru noua generație de cercetători din România",
       "url": "https://www.edu.ro/press_rel_68_26_lansare_bpd",
@@ -26,11 +31,6 @@
       "title": "Sistemul educațional românesc în oglinda evaluărilor naționale și internaționale: Focus PISA 2025",
       "url": "https://www.edu.ro/press_rel_64_26_PISA_2025_rezultate_RO",
       "date": "8 septembrie 2026"
-    },
-    {
-      "title": "Au început etapele administrative pentru organizarea Concursului pentru ocuparea funcțiilor de director și director adjunct în unitățile de învățământ preuniversitar de stat",
-      "url": "https://www.edu.ro/press_rel_63_26_concurs_directori",
-      "date": "2 septembrie 2026"
     }
   ]
 }
