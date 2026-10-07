@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-10-06T13:15:41.983Z",
+  "fetchedAt": "2026-10-07T13:17:32.212Z",
   "items": [
+    {
+      "title": "Informare privind stadiul concursului pentru ocuparea funcției de director sau director adjunct în unitățile de învățământ preuniversitar de stat",
+      "url": "https://www.edu.ro/press_rel_70_26_informare_concurs_directori",
+      "date": "7 octombrie 2026"
+    },
     {
       "title": "Continuarea și extinderea implementării în România a programelor FLEX Global și FLEX Abroad Global în anul școlar 2027 - 2028",
       "url": "https://www.edu.ro/press_rel_69_26_memorandum_flex",
@@ -26,11 +31,6 @@
       "title": "Ministerul Educației și Cercetării lansează „PRIMII: Program pentru Reușita Învățământului Primar prin Măsuri Integrate de Intervenție”, un demers de prevenire a analfabetismului funcțional și a abandonului școlar pentru aproximativ 50.000 de copii",
       "url": "https://www.edu.ro/press_rel_65_26_lansare_PRIMII",
       "date": "28 septembrie 2026"
-    },
-    {
-      "title": "Sistemul educațional românesc în oglinda evaluărilor naționale și internaționale: Focus PISA 2025",
-      "url": "https://www.edu.ro/press_rel_64_26_PISA_2025_rezultate_RO",
-      "date": "8 septembrie 2026"
     }
   ]
 }
