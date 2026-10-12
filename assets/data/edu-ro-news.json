@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-10-11T12:44:39.969Z",
+  "fetchedAt": "2026-10-12T15:16:53.859Z",
   "items": [
+    {
+      "title": "Informare privind desfășurarea probei de competențe (13.10.2026) din cadrul concursului pentru ocuparea funcției de director sau director adjunct în unitățile de învățământ preuniversitar de stat",
+      "url": "https://www.edu.ro/press_rel_71_26_informare_concurs_directori",
+      "date": "12 octombrie 2026"
+    },
     {
       "title": "Informare privind stadiul concursului pentru ocuparea funcției de director sau director adjunct în unitățile de învățământ preuniversitar de stat",
       "url": "https://www.edu.ro/press_rel_70_26_informare_concurs_directori",
@@ -26,11 +31,6 @@
       "title": "Informare asupra stadiului licitației de manuale pentru clasa a IX-a, în contextul reformei curriculare",
       "url": "https://www.edu.ro/press_rel_66_26_licitatie_manuale_IX",
       "date": "29 septembrie 2026"
-    },
-    {
-      "title": "Ministerul Educației și Cercetării lansează „PRIMII: Program pentru Reușita Învățământului Primar prin Măsuri Integrate de Intervenție”, un demers de prevenire a analfabetismului funcțional și a abandonului școlar pentru aproximativ 50.000 de copii",
-      "url": "https://www.edu.ro/press_rel_65_26_lansare_PRIMII",
-      "date": "28 septembrie 2026"
     }
   ]
 }
