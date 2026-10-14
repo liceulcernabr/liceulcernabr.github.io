@@ -1,9 +1,14 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-10-13T14:07:06.060Z",
+  "fetchedAt": "2026-10-14T11:47:13.315Z",
   "items": [
     {
-      "title": "Informare privind desfășurarea probei de competențe din cadrul concursului pentru ocuparea funcției de director sau director adjunct în unitățile de învățământ preuniversitar de stat",
+      "title": "Manuale noi pentru clasa a IX-a, pentru 63 de discipline, disponibile în format digital și PDF",
+      "url": "https://www.edu.ro/press_rel_73_26_manuale_IX",
+      "date": "14 octombrie 2026"
+    },
+    {
+      "title": "Informare privind desfășurarea și rezultatele probei de competențe din cadrul concursului pentru ocuparea funcției de director/director adjunct în unitățile de învățământ preuniversitar de stat",
       "url": "https://www.edu.ro/press_rel_72_26_informare_prima_proba_concurs_directori",
       "date": "13 octombrie 2026"
     },
@@ -26,11 +31,6 @@
       "title": "Burse postdoctorale pentru noua generație de cercetători din România",
       "url": "https://www.edu.ro/press_rel_68_26_lansare_bpd",
       "date": "30 septembrie 2026"
-    },
-    {
-      "title": "Informare privind structura testelor din cadrul Concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat",
-      "url": "https://www.edu.ro/press_rel_67_26_informare_probe_concurs_directori",
-      "date": "29 septembrie 2026"
     }
   ]
 }
