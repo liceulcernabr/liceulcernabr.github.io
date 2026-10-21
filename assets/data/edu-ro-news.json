@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-10-20T11:31:19.943Z",
+  "fetchedAt": "2026-10-21T11:43:45.797Z",
   "items": [
+    {
+      "title": "Informare privind desfășurarea și rezultatele probei scrise pentru evaluarea cunoștințelor de management și legislație școlară din cadrul concursului pentru ocuparea funcției de director/director adjunct în unitățile de învățământ preuniversitar de stat",
+      "url": "https://www.edu.ro/press_rel_77_26_informare_proba_scrisa_concurs_directori",
+      "date": "20 octombrie 2026"
+    },
     {
       "title": "Declarația Ministrului interimar al Educației și Cercetării, Mihai Dimian, față de agresiunea produsă astăzi, 19 octombrie 2026, într-o școală din municipiul Bistrița",
       "url": "https://www.edu.ro/press_rel_76_26_declaratie_ministru_Bistrita",
@@ -26,11 +31,6 @@
       "title": "Informare privind desfășurarea și rezultatele probei de competențe din cadrul concursului pentru ocuparea funcției de director/director adjunct în unitățile de învățământ preuniversitar de stat",
       "url": "https://www.edu.ro/press_rel_72_26_informare_prima_proba_concurs_directori",
       "date": "13 octombrie 2026"
-    },
-    {
-      "title": "Informare privind desfășurarea probei de competențe (13.10.2026) din cadrul concursului pentru ocuparea funcției de director sau director adjunct în unitățile de învățământ preuniversitar de stat",
-      "url": "https://www.edu.ro/press_rel_71_26_informare_concurs_directori",
-      "date": "12 octombrie 2026"
     }
   ]
 }
