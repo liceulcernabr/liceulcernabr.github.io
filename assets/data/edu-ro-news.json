@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-11-03T14:06:21.007Z",
+  "fetchedAt": "2026-11-05T14:35:07.828Z",
   "items": [
+    {
+      "title": "Ministerul Educației și Cercetării invită universitățile să găzduiască etape naționale ale olimpiadelor școlare",
+      "url": "https://www.edu.ro/press_rel_79_26",
+      "date": "5 noiembrie 2026"
+    },
     {
       "title": "Întâlniri ale ministrului Educației și Cercetării, Sorin Costreie, și ale ministrului delegat pentru învățământ preuniversitar, Sorin Ionescu, cu reprezentanți ai comunității educaționale",
       "url": "https://www.edu.ro/press_rel_78_26",
@@ -25,11 +30,6 @@
     {
       "title": "709 cereri de finanțare depuse pentru participarea la „Programul pentru Reușita Învățământului primar prin Măsuri Integrate de Intervenție” (PRIMII), lansat de Ministerul Educației și Cercetării",
       "url": "https://www.edu.ro/press_rel_74_26_PRIMII_aplicatii_scoli",
-      "date": "14 octombrie 2026"
-    },
-    {
-      "title": "Manuale noi pentru clasa a IX-a, pentru 63 de discipline, disponibile în format digital și PDF",
-      "url": "https://www.edu.ro/press_rel_73_26_manuale_IX",
       "date": "14 octombrie 2026"
     }
   ]
