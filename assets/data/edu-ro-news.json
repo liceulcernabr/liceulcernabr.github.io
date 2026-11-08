@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-11-06T14:12:32.914Z",
+  "fetchedAt": "2026-11-08T13:17:58.969Z",
   "items": [
+    {
+      "title": "Întâlnire a ministrului Educației și Cercetării, Sorin-Valentin Costreie, cu vicepreședinta executivă a Comisiei Europene, Roxana Mînzatu",
+      "url": "https://www.edu.ro/press_rel_80_26",
+      "date": "7 noiembrie 2026"
+    },
     {
       "title": "Ministerul Educației și Cercetării invită universitățile să găzduiască etape naționale ale olimpiadelor școlare",
       "url": "https://www.edu.ro/press_rel_79_26",
@@ -26,11 +31,6 @@
       "title": "Informare privind rezultatele după contestații ale probei de competențe din cadrul concursului național pentru ocuparea funcțiilor de director și director adjunct",
       "url": "https://www.edu.ro/press_rel_75_26_rezultate_contestatii_proba_competente_concurs_directori",
       "date": "15 octombrie 2026"
-    },
-    {
-      "title": "709 cereri de finanțare depuse pentru participarea la „Programul pentru Reușita Învățământului primar prin Măsuri Integrate de Intervenție” (PRIMII), lansat de Ministerul Educației și Cercetării",
-      "url": "https://www.edu.ro/press_rel_74_26_PRIMII_aplicatii_scoli",
-      "date": "14 octombrie 2026"
     }
   ]
 }
