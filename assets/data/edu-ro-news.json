@@ -1,7 +1,17 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-11-11T14:13:58.295Z",
+  "fetchedAt": "2026-11-12T15:07:26.858Z",
   "items": [
+    {
+      "title": "Concursurile pentru funcțiile didactice de lector universitar/șef de lucrări au fost deblocate",
+      "url": "https://www.edu.ro/press_rel_82_26",
+      "date": "12 noiembrie 2026"
+    },
+    {
+      "title": "Strategia Națională pentru prevenirea și combaterea extremismului violent, proiect în consultare publică",
+      "url": "https://www.edu.ro/press_rel_81_26",
+      "date": "12 noiembrie 2026"
+    },
     {
       "title": "Întâlnire a ministrului Educației și Cercetării, Sorin-Valentin Costreie, cu vicepreședinta executivă a Comisiei Europene, Roxana Mînzatu",
       "url": "https://www.edu.ro/press_rel_80_26",
@@ -21,16 +31,6 @@
       "title": "Informare privind desfășurarea și rezultatele probei scrise pentru evaluarea cunoștințelor de management și legislație școlară din cadrul concursului pentru ocuparea funcției de director/director adjunct în unitățile de învățământ preuniversitar de stat",
       "url": "https://www.edu.ro/press_rel_77_26_informare_proba_scrisa_concurs_directori",
       "date": "20 octombrie 2026"
-    },
-    {
-      "title": "Declarația Ministrului interimar al Educației și Cercetării, Mihai Dimian, față de agresiunea produsă astăzi, 19 octombrie 2026, într-o școală din municipiul Bistrița",
-      "url": "https://www.edu.ro/press_rel_76_26_declaratie_ministru_Bistrita",
-      "date": "19 octombrie 2026"
-    },
-    {
-      "title": "Informare privind rezultatele după contestații ale probei de competențe din cadrul concursului național pentru ocuparea funcțiilor de director și director adjunct",
-      "url": "https://www.edu.ro/press_rel_75_26_rezultate_contestatii_proba_competente_concurs_directori",
-      "date": "15 octombrie 2026"
     }
   ]
 }
