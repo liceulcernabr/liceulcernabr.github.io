@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-11-12T15:07:26.858Z",
+  "fetchedAt": "2026-11-13T14:30:23.609Z",
   "items": [
+    {
+      "title": "Informare privind rezultatele probei de evaluare a proiectelor manageriale din cadrul concursului național pentru ocuparea funcțiilor de director și director adjunct",
+      "url": "https://www.edu.ro/press_rel_84_26",
+      "date": "13 noiembrie 2026"
+    },
     {
       "title": "Concursurile pentru funcțiile didactice de lector universitar/șef de lucrări au fost deblocate",
       "url": "https://www.edu.ro/press_rel_82_26",
@@ -13,6 +18,11 @@
       "date": "12 noiembrie 2026"
     },
     {
+      "title": "Grupul de lucru pentru prevenirea și combaterea violenței în mediul școlar, constituit la nivelul Guvernului, s-a reunit astăzi la Palatul Victoria",
+      "url": "https://www.edu.ro/press_rel_83_26",
+      "date": "12 noiembrie 2026"
+    },
+    {
       "title": "Întâlnire a ministrului Educației și Cercetării, Sorin-Valentin Costreie, cu vicepreședinta executivă a Comisiei Europene, Roxana Mînzatu",
       "url": "https://www.edu.ro/press_rel_80_26",
       "date": "7 noiembrie 2026"
@@ -21,16 +31,6 @@
       "title": "Ministerul Educației și Cercetării invită universitățile să găzduiască etape naționale ale olimpiadelor școlare",
       "url": "https://www.edu.ro/press_rel_79_26",
       "date": "5 noiembrie 2026"
-    },
-    {
-      "title": "Întâlniri ale ministrului Educației și Cercetării, Sorin Costreie, și ale ministrului delegat pentru învățământ preuniversitar, Sorin Ionescu, cu reprezentanți ai comunității educaționale",
-      "url": "https://www.edu.ro/press_rel_78_26",
-      "date": "29 octombrie 2026"
-    },
-    {
-      "title": "Informare privind desfășurarea și rezultatele probei scrise pentru evaluarea cunoștințelor de management și legislație școlară din cadrul concursului pentru ocuparea funcției de director/director adjunct în unitățile de învățământ preuniversitar de stat",
-      "url": "https://www.edu.ro/press_rel_77_26_informare_proba_scrisa_concurs_directori",
-      "date": "20 octombrie 2026"
     }
   ]
 }
