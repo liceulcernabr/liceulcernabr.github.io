@@ -1,7 +1,12 @@
 {
   "source": "https://www.edu.ro/comunicate",
-  "fetchedAt": "2026-11-23T17:59:14.670Z",
+  "fetchedAt": "2026-11-24T17:37:42.212Z",
   "items": [
+    {
+      "title": "Informare de presă",
+      "url": "https://www.edu.ro/press_rel_87_26",
+      "date": "24 noiembrie 2026"
+    },
     {
       "title": "Participarea ministrului Educației și Cercetării, Valentin-Sorin Costreie, la reuniunea Consiliului Educație, Tineret, Cultură și Sport - secțiunea Educație (19 noiembrie 2026)",
       "url": "https://www.edu.ro/press_rel_86_26",
@@ -25,11 +30,6 @@
     {
       "title": "Strategia Națională pentru prevenirea și combaterea extremismului violent, proiect în consultare publică",
       "url": "https://www.edu.ro/press_rel_81_26",
-      "date": "12 noiembrie 2026"
-    },
-    {
-      "title": "Grupul de lucru pentru prevenirea și combaterea violenței în mediul școlar, constituit la nivelul Guvernului, s-a reunit astăzi la Palatul Victoria",
-      "url": "https://www.edu.ro/press_rel_83_26",
       "date": "12 noiembrie 2026"
     }
   ]
